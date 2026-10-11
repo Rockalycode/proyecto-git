@@ -1,0 +1,206 @@
+﻿Diagnose log at 2026-10-11T23:15:50Z
+
+AppPath: C:\Program Files\Git\ucrt64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\ucrt64\bin\
+Version: 2.9.1+6760f0ef069c994aa2bb1d703fb374986ee82a3e
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26300)
+Reading environment variables... OK
+ Variables:
+ORIGINAL_TMP=C:/Users/crist/AppData/Local/Temp
+ProgramFiles(x86)=C:\Program Files (x86)
+MSYSTEM=UCRT64
+ProgramW6432=C:\Program Files
+EXEPATH=C:\Program Files\Git
+EFC_36904_1262719628=1
+PROCESSOR_IDENTIFIER=AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD
+PKG_CONFIG_SYSTEM_LIBRARY_PATH=C:/Program Files/Git/ucrt64/lib
+APPDATA=C:\Users\crist\AppData\Roaming
+TMP=C:\Users\crist\AppData\Local\Temp
+PROCESSOR_ARCHITECTURE=AMD64
+INFOPATH=C:\Program Files\Git\ucrt64\local\info;C:\Program Files\Git\ucrt64\share\info;C:\Program Files\Git\usr\local\info;C:\Program Files\Git\usr\share\info;C:\Program Files\Git\usr\info;C:\Program Files\Git\share\info
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+EFC_36904_2283032206=1
+USERPROFILE=C:\Users\crist
+PWD=C:/Users/crist/OneDrive/Escritorio/Proyecto-git
+CONFIG_SITE=C:/Program Files/Git/etc/config.site
+PROCESSOR_REVISION=7502
+HOSTNAME=CristianRojas
+TEMP=C:\Users\crist\AppData\Local\Temp
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+LOGONSERVER=\\CRISTIANROJAS
+TERM=xterm-256color
+USERNAME=crist
+ProgramData=C:\ProgramData
+GIT_EXEC_PATH=C:/Program Files/Git/ucrt64/libexec/git-core
+EFC_36904_3789132940=1
+PLINK_PROTOCOL=ssh
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+EFC_36904_2946480783=1
+PATH=C:/Program Files/Git/ucrt64/libexec/git-core;C:\Users\crist\bin;C:\Program Files\Git\ucrt64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\ucrt64\bin;C:\Program Files\Git\usr\bin;C:\Users\crist\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\Git\cmd;C:\Users\crist\AppData\Local\Microsoft\WindowsApps;C:\Users\crist\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+OneDrive=C:\Users\crist\OneDrive
+LOCALAPPDATA=C:\Users\crist\AppData\Local
+MSYSTEM_CARCH=x86_64
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+PKG_CONFIG_SYSTEM_INCLUDE_PATH=C:/Program Files/Git/ucrt64/include
+PROCESSOR_LEVEL=25
+EFC_36904_1592913036=1
+MINGW_CHOST=x86_64-w64-mingw32
+LC_CTYPE=es_ES.UTF-8
+HOMEPATH=\Users\crist
+DISPLAY=needs-to-be-defined
+OneDriveConsumer=C:\Users\crist\OneDrive
+MANPATH=C:\Program Files\Git\ucrt64\local\man;C:\Program Files\Git\ucrt64\share\man;C:\Program Files\Git\usr\local\man;C:\Program Files\Git\usr\share\man;C:\Program Files\Git\usr\man;C:\Program Files\Git\share\man
+WINDIR=C:\Windows
+USERDOMAIN=CRISTIANROJAS
+ALLUSERSPROFILE=C:\ProgramData
+CommonProgramW6432=C:\Program Files\Common Files
+SYSTEMROOT=C:\Windows
+_=C:/Program Files/Git/ucrt64/bin/git
+NUMBER_OF_PROCESSORS=16
+SHELL=C:\Program Files\Git\usr\bin\bash.exe
+PROGRAMFILES=C:\Program Files
+SHLVL=1
+SESSIONNAME=Console
+DriverData=C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE=C:
+GIT_TRACE2_PARENT_SID=1b2ad17f-9476-49fa-82d8-800a18cd568b
+ACLOCAL_PATH=C:\Program Files\Git\ucrt64\share\aclocal;C:\Program Files\Git\usr\share\aclocal
+ORIGINAL_PATH=C:\Program Files\Git\ucrt64\bin;C:\Program Files\Git\usr\bin;C:\Users\crist\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\Git\cmd;C:\Users\crist\AppData\Local\Microsoft\WindowsApps;C:\Users\crist\AppData\Local\Programs\Microsoft VS Code\bin
+OS=Windows_NT
+MSYSTEM_PREFIX=C:/Program Files/Git/ucrt64
+EFC_36904_4126798990=1
+MSYSTEM_CHOST=x86_64-w64-mingw32
+MINGW_PREFIX=C:/Program Files/Git/ucrt64
+ORIGINAL_TEMP=C:/Users/crist/AppData/Local/Temp
+HOME=C:\Users\crist
+SYSTEMDRIVE=C:
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+TMPDIR=C:\Users\crist\AppData\Local\Temp
+MINGW_PACKAGE_PREFIX=mingw-w64-ucrt-x86_64
+PS1=\[\033]0;$TITLEPREFIX:$PWD\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ 
+COMPUTERNAME=CRISTIANROJAS
+SSH_ASKPASS=C:/Program Files/Git/ucrt64/bin/git-askpass.exe
+COMSPEC=C:\Windows\system32\cmd.exe
+PKG_CONFIG_PATH=C:\Program Files\Git\ucrt64\lib\pkgconfig;C:\Program Files\Git\ucrt64\share\pkgconfig
+TERM_PROGRAM_VERSION=3.8.3
+USERDOMAIN_ROAMINGPROFILE=CRISTIANROJAS
+PUBLIC=C:\Users\Public
+TERM_PROGRAM=mintty
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\crist\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\crist\AppData\Local\Temp\a1f54bb2b6110aa6ba27f67d'... OK
+Reading from temporary file 'C:\Users\crist\AppData\Local\Temp\a1f54bb2b6110aa6ba27f67d'... OK
+Deleting temporary file 'C:\Users\crist\AppData\Local\Temp\a1f54bb2b6110aa6ba27f67d'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\crist
+UserDataDirectoryPath: C:\Users\crist\.gcm
+GetCurrentDirectory(): C:\Users\crist\OneDrive\Escritorio\Proyecto-git
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:51015/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.56.0.windows.1'
+Locating current repository...Git repository at 'C:/Users/crist/OneDrive/Escritorio/Proyecto-git/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=true
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/crist/.gitconfig	user.email=cristian.rojas18907184@soy.sena.edu.co
+file:C:/Users/crist/.gitconfig	user.name=cristian rojas
+file:C:/Users/crist/.gitconfig	init.defaultbranch=main
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/Rockalycode/proyecto-git.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\crist\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\crist\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+

@@ -1,0 +1,41 @@
+.ventas {
+    background-color: rgb(200, 12, 12);
+}
+.inventario{
+    background-color: red;
+}
+.titulo{
+    color: blue;
+    text-align: center;
+    margin-top: 50px;
+}
+.under{
+    background-color: black;
+    padding: 50px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.contenedor-tarjetas{
+    display: flex;
+    gap: 24px;
+    padding: 50px;
+    flex: 1;
+    color: white; 
+}
+body{
+    margin: 0;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.contenedor-tarjetas > section {
+    flex: 1; 
+    color: white;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
